@@ -13,7 +13,7 @@ toc= false
 
 The following is a Sanskrit translation of [Lekhnath Paudyal](https://en.wikipedia.org/wiki/Lekhnath_Paudyal)'s 1917 poem पिंजडाको सुगा (Parrot in a Cage) that I did a couple of years ago. There are, it seems to me now, both grammatical errors and infelicities of expression. As I have no intention of working on it right now, I'm letting them be. As Nepali poems are generally in the same metres that are used in Classical Sanskrit, I usually try to preserve the metre in translation. The current poem, however, was in Doha metre.While it is not impossible to preserve moraic metres while translating into Sanskrit, I don't like moraic metres and have no intention of composing in them. So, *upajāti* is used here. There are apparantly multiple more than one version floating around. I don't know what the deal with their authenticity is but this follows the shorter version that I read as a child.
 
-[PDF Version](shukavilapa.pdf)
+[PDF Version](sukavilapa.pdf)
 
 ### My Sanskrit Translation
 
