@@ -7,9 +7,19 @@ weight = 10
 [[main]]
 name = 'About'
 pageRef = '/pages/about/'
-weight = 50
+weight = 20
 
 [[main]]
 name = 'Posts'
 url = '/posts/'
-weight = 70
+weight = 30
+
+[[main]]
+name = 'Substack'
+pageRef = '/substack/'
+weight = 40
+
+[[main]]
+name = 'Reviews'
+pageRef = '/reviews/'
+weight = 50
