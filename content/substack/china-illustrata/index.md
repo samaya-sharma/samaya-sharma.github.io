@@ -7,7 +7,7 @@ categories= ["History", "Latin", "Nepal"]
 authors= ["Samaya"]
 showFrontMatter= true
 slug="china-illustata"
-toc= false
+toc= true
 +++
 [Original Here](https://psugam.substack.com/p/diabolis-similiores-quam-hominibus)
 

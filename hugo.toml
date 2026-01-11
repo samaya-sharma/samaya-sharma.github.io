@@ -8,7 +8,7 @@ canonifyURLs = false
 relativeURLs = false
 
 enableRobotsTXT = true
-summaryLength = 50
+summaryLength = 500
 defaultMarkdownHandler = "goldmark"
 
 
