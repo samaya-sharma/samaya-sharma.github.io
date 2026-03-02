@@ -1,0 +1,6 @@
+\public
+\exampleSite\public
+\node_modules
+\exampleSite\node_modules
+.hugo_build.lock
+\exampleSite\hugo_build.lock
