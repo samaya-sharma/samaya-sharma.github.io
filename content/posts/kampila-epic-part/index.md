@@ -14,7 +14,7 @@ cover="https://upload.wikimedia.org/wikipedia/commons/1/19/Muhammad_bin_Tughlaq_
 
 I have a passing interest in many things. History, and especially South Asian history, is one of them. I don't write much creative writings in other languages but have a mind to write on many subjects of interest in Sanskrit. I'm someway into my History of the Kings of Nepal in verse. Another is a large, intergenerational saga set in early Vedic age. I've more or less a complete summary in prose of this one but it would take a long time to commit to verse and amplify. Another is a long historical epic set in the late 13th and early 14th centuries. It would cover the fall of all the old South Indian kingdoms before the might of the Delhi Sultans and the subsequent rise of Vijayanagara. In flashback scenes and nested narratives, it would also cover the fall of Rajput Kingdoms at Tarain in 1191 CE as well as the Pandyan Civil Wars.
 
-The part that follows describes the fall of the Kampili kingdom when Bahauddin Gurshasp, the 
+The part that follows describes the fall of the Kampili kingdom when Bahauddin Gurshasp, the cousin of Muhammad Bin Tughluq (r. 1325-1351), rebelled against the Delhi Sultanate, was defeated and sought refuge with the eponymous king of Kampili. After some failed raids, the Sultan finally sent a larger force to subdue the Kingdom. After a month of siege, Kampili and his men made a final charge on the Sultan's armies and were all killed while the womenfolk committed *jahaur*. Gurshasp was sent to King Bira Ballala III before this final stand but the old king gave him up to the Sultan's men. 
 
 ## Devanagari (देवनागरी)
 {{<poet>}}
