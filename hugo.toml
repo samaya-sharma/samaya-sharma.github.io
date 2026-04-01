@@ -56,6 +56,7 @@ weight = 25
 
 [permalinks]
 posts = "/:year/:month/:slug/"
+substack="/:year/:month/:slug/"
 
 [module]
 [module.hugoVersion]
